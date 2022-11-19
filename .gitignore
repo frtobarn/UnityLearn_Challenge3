@@ -1,0 +1,9 @@
+.vscode/
+Library/
+Logs/
+Packages/
+Temp/
+UserSettings/
+Assembly-CSharp.csproj
+UnityLearn_Challenge3.sln
+obj/
